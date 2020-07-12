@@ -30,6 +30,9 @@ gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 gem 'stripe'
 gem 'dotenv-rails'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
